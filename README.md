@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/Juliana-crsp">
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Juliana-crsp&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-crsp&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-crsp&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
   
   ##
