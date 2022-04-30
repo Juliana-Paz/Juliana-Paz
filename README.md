@@ -1,17 +1,25 @@
 ### >_ Hello World!
-## I'm Juliana Paz, nice to meet you! 👋
+## I'm Juliana Paz, wellcome to my GitHub page! 👋
 - 🇧🇷 Brazillian
 - 📚 Undergraduate in Information System
 - 👩‍💻 Learning Java
    
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/Juliana-crsp">
-  <img height="50%" width="45%" src="https://github-readme-stats.vercel.app/api?username=Juliana-crsp&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true0"/>
-  <img height="50%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-crsp&layout=compact&langs_count=7&theme=aura_dark">
+  <img height=180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-crsp&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-crsp&layout=compact&langs_count=7&theme=aura_dark">
 </div>
+                                                                                                                                                    
+   ##                                                                                                                                                    
    
-  ##
-  
+### Languages:
+                                                                                                                                                  
+<div style="display: inline_block>"><br>
+   <img alt="Ju-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+ 
+   ##
+   
 <div>
   <a href = "mailto:julianacrsp@gmail.com">                                          
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red&target="_blank"></a>
