@@ -7,16 +7,16 @@
 <div align="center">
   <a href="https://github.com/Juliana-crsp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-crsp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-crsp&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-crsp&langs_count=7&theme=dracula"/>
+</div>  
   
   ##
-   
+  
 #### Languages:                                                                                                                                           <div style="display: inline_block">
-   <img alt="Ju-Java" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img alt="Ju-Java" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
-  ##
+  
+  ##  
   
 #### Social:  
 <div>
