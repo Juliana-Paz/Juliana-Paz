@@ -12,15 +12,16 @@
   
   ##
 
-<div style="display: inline_block">
-   <img alt="Ju-Java" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<div align="center" style="display: inline_block">
+   <img alt="Ju-Java" height="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-  ##  
- 
-<div>
-  <a href = "mailto:julianacrsp@gmail.com">                                          
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red&target="_blank"></a>
+  ##
+  
+<div align="right">    
+  <a href="mailto:julianacrsp@gmail.com">                                          
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-chaves-da-rocha-silva-paz-1237091b4/">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
