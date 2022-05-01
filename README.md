@@ -1,8 +1,8 @@
-### >_ Hello World!
+### > Hello World!
 ## I'm Juliana Paz, wellcome to my GitHub page! 👋
 - 🇧🇷 Brazillian
-- 📚 Undergraduate in Information System
-- 👩‍💻 Learning Java   
+- 📚 Undergraduate in __Information System__
+- 👩‍💻 Learning __Java__   
 
 <div align="center">
   <a href="https://github.com/Juliana-crsp">
@@ -24,4 +24,3 @@
   <a href="https://www.linkedin.com/in/juliana-chaves-da-rocha-silva-paz-1237091b4/">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
