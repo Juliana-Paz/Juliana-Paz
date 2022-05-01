@@ -1,4 +1,4 @@
-### > Hello World!
+### >_ Hello World!
 ## I'm Juliana Paz, wellcome to my GitHub page! 👋
 - 🇧🇷 Brazillian
 - 📚 Undergraduate in __Information System__
