@@ -14,7 +14,7 @@
    
 #### Languages:                                                                                                                                            
 <div style="display: inline_block">
-   <img alt="Ju-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img alt="Ju-Java" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
  
   ##
