@@ -2,7 +2,7 @@
 ## I'm Juliana Paz, wellcome to my GitHub page! 👋
 - 🇧🇷 Brazillian
 - 📚 Undergraduate in __Information System__
-- 👩‍💻 Learning __Java__, __C#__, __.NET__, __HTML__, __CSS__, __Bootstrap__. 
+- 👩‍💻 Learning __Java__, __C#__, __.NET__, __HTML__, __CSS__, __Bootstrap__, __MySQL__. 
 
 <div align="center">
   <a href="https://github.com/Juliana-crsp">
