@@ -5,9 +5,9 @@
 - 👩‍💻 Learning __Java__, __C#__, __.NET__, __HTML__, __CSS__, __Bootstrap__ and __MySQL__. 
 
 <div align="center">
-  <a href="https://github.com/Juliana-crsp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-crsp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=2px&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-crsp&langs_count=7&theme=dracula&border_radius=2px&hide_border=true"/>
+  <a href="https://github.com/Juliana-Paz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-Paz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=2px&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-Paz&langs_count=7&theme=dracula&border_radius=2px&hide_border=true"/>
 </div>  
   
   ##
