@@ -6,6 +6,7 @@ __LINKEDIN:__ www.linkedin.com/in/juliana-chaves-paz
 - 📚 Undergraduate in __Information System__
 - 👩‍💻 __Java__, __Angular__, __Quarkus framework__, __C#__, __.NET__, __MySQL__ and __Docker__. 
 
+
 <div align="center">
   <a href="https://github.com/Juliana-Paz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-Paz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=2px&hide_border=true"/>
